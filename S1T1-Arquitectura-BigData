@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T01:16:09.982Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="9V4ka4G-nCF1IvZTu3Ye" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T01:18:54.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="NopM9wjl_0EjbfKKCuoe" version="14.9.6" type="github">
   <diagram id="ee-7IFwFf26cFgRDvhsl" name="Page-1">
     <mxGraphModel dx="988" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -203,6 +203,24 @@
         </mxCell>
         <mxCell id="oi80Mo4lhM9nCSYwkao9-68" value="Agrupamiento" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Event_Grid_Domains.svg;" vertex="1" parent="1">
           <mxGeometry x="910" y="-493" width="67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oi80Mo4lhM9nCSYwkao9-69" value="Autor" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-190" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oi80Mo4lhM9nCSYwkao9-70" value="William Huera" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-190" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oi80Mo4lhM9nCSYwkao9-71" value="Institución" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-210" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oi80Mo4lhM9nCSYwkao9-72" value="UDLA" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-210" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oi80Mo4lhM9nCSYwkao9-73" value="Fecha" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oi80Mo4lhM9nCSYwkao9-74" value="17-08-2021" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-170" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
